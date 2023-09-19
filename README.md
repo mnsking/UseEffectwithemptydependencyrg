@@ -1,0 +1,2 @@
+# UseEffectwithemptydependencyrg
+Created with CodeSandbox
